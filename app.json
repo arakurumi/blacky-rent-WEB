@@ -17,12 +17,6 @@
             "value": "blacky-rent-WEB"
         }
     },
-    "formation": {
-        "web": {
-            "quantity": 1,
-            "size": "free"
-        }
-    },
     "logo": "https://raw.githubusercontent.com/iTzBlack007/blacky-rent-WEB/main/logo.png",
     "name": "blacky-rent-WEB",
     "repository": "https://github.com/iTzBlack007/blacky-rent-WEB",
